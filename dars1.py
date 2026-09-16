@@ -1,3 +1,6 @@
-print("Hefijdi[ar]")
+
+print("Salom dasturchilar")
+print("Salom dasturchilar")
+print("Salom bekorchilar")
 
 
